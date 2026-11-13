@@ -34,7 +34,7 @@ padding: 20px;
     </header>
     <div class="container">
         <h1 style="text-align:center;"><b>Xin chào mọi người đã đến với trang web giới thiệu của Phạm Nguyễn Tuấn Anh</b></h3>
-   <img src="anh1.jpg" alt="VAD1" style="display: block; margin: 0 auto;max-width: 100%; height: auto;">
+   <img src="anh1.jpg" alt="Ảnh cá nhân" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
     </div>
     <div class="container">
     <h1 style="text-align: center;">Thẻ cá nhân</h1>
